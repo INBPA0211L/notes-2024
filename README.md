@@ -1,4 +1,4 @@
-# Exercises
+# Lab notes 2024
 
 This repository contains notes and exercises for subject *High-level programming languages 1*. Note that the official announcements and other important pieces of information can be found in our Moodle course.
 
