@@ -10,6 +10,11 @@ The environment (`gcc` compiler, VS Code, Hello World), compilation vs. runtime.
 2. VS Code, GCC compiler
 3. Hello, World!
 
+## Sample codes
+
+1. [`01_hello_world.c`](./samples/01_hello_world.c)
+1. [`02_hello_world.c`](./samples/02_hello_world.c)
+
 ## Highlights
 
 ### Command `gcc` and its options
