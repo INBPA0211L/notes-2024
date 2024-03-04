@@ -23,7 +23,8 @@ Language basics #2 (types, variables, expressions, statements, handling standard
 2. [`test_for.c`](./samples/test_for.c)
 3. [`test_do_while.c`](./samples/test_do_while.c)
 4. [`euclidean_while.c`](./samples/euclidean_while.c)
-5. [`euclidean_for.c`](./samples/euclidean_for.c)
+5. [`euclidean_for_1.c`](./samples/euclidean_for_1.c)
+5. [`euclidean_for_2.c`](./samples/euclidean_for_2.c)
 
 ## Exercises
 
