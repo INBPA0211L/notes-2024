@@ -36,8 +36,8 @@ Language basics #3 (types, variables, expressions, statements, handling standard
 #### Advanced exercises
 
 1. [TeX Quotes](https://progcont.hu/progcont/100005/?locale=en&pid=272)
-2. [Fractions](./exercises/PC200501.md)
-3. [Dog contest](./exercises/PC200514.md)
+2. [Fractions](../week-03/exercises/PC200501.md)
+3. [Dog contest](../week-03/exercises/PC200514.md)
 
 ### New exercises without writing functions
 
@@ -48,7 +48,7 @@ Language basics #3 (types, variables, expressions, statements, handling standard
 
 1. [Santa Claus Arrives](./exercises/PC200657.md)
 
-**TODO**
+**TODO**: more exercises are coming
 
 ## Highlights
 
