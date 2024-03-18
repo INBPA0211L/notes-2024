@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdbool.h>
 
 void fill_array(int *numbers, int length, int min, int max)
 {
@@ -42,10 +43,10 @@ void sort_array_bubble_1(int *numbers, int length)
 
 void sort_array_bubble_2(int *numbers, int length)
 {
-    int had_change = 1;
+    int had_change = true;
     while (had_change)
     {
-        had_change = 0;
+        had_change = false;
         for (int i = 1; i < length; i++)
         {
             if (numbers[i - 1] > numbers[i])
@@ -53,7 +54,7 @@ void sort_array_bubble_2(int *numbers, int length)
                 int tmp = numbers[i];
                 numbers[i] = numbers[i - 1];
                 numbers[i - 1] = tmp;
-                had_change = 1;
+                had_change = true;
             }
         }
     }
@@ -79,5 +80,5 @@ int main()
     sort_array_bubble_2(numbers, length);
     print_array(numbers, length);
 
-    return 0;
+    return EXIT_SUCCESS;
 }
