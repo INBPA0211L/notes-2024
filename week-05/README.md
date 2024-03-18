@@ -20,8 +20,8 @@ Data structures and built-in functions #1 (pointers, 1D numeric arrays).
 
 ## Exercises
 
-1. `P1041` - [Arrays - counting elements](./exercises/P1041/)
-1. `P1042` - [Arrays - validating elements](./exercises/P1042/)
+1. `P1041` - [Arrays - counting elements](./exercises/P1041/README.md)
+1. `P1042` - [Arrays - validating elements](./exercises/P1042/README.md)
 
 ## Highlights
 
