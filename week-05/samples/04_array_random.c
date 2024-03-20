@@ -43,7 +43,7 @@ void sort_array_bubble_1(int *numbers, int length)
 
 void sort_array_bubble_2(int *numbers, int length)
 {
-    int had_change = true;
+    bool had_change = true;
     while (had_change)
     {
         had_change = false;
