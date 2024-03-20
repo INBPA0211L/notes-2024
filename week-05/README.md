@@ -9,14 +9,15 @@ Data structures and built-in functions #1 (pointers, 1D numeric arrays).
 ## Agenda
 
 1. Memory addresses and pointers.
-2. Declaring and using arrays in the `main` function.
-3. Passing arrays to functions.
+1. Declaring and using arrays in the `main` function.
+1. Passing arrays to functions.
 
 ## Sample codes
 
-1. [`01_shapes_with_pointers.c`](./samples/01_shapes_with_pointers.c)
-2. [`02_array_basics.c`](./samples/02_array_basics.c)
-3. [`03_array_random.c`](./samples/03_array_random.c)
+1. [`01_pointer_function.c`](./samples/01_pointer_function.c)
+1. [`02_shapes_with_pointers.c`](./samples/02_shapes_with_pointers.c)
+1. [`03_array_basics.c`](./samples/03_array_basics.c)
+1. [`04_array_random.c`](./samples/04_array_random.c)
 
 ## Exercises
 
