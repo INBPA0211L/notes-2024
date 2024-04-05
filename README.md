@@ -11,7 +11,7 @@ This repository contains notes and exercises for subject *High-level programming
 1. [Data structures and built-in functions #1 (pointers, 1D numeric arrays).](./week-05/README.md)
 1. [Data structures and built-in functions #2 (1D character arrays, strings, dynamic memory allocation).](./week-06/README.md)
 1. **Feedback test**
-1. Data structures and built-in functions #4 (multidimensional arrays, consuming command-line arguments).
+1. [Data structures and built-in functions #3 (multidimensional arrays, consuming command-line arguments).](./week-08/README.md)
 1. Data handling #1 (structures, reading and writing files, processing CSV documents, functions `qsort` and `bsearch`).
 1. Data handling #2 (structures, reading and writing files, processing CSV documents, functions `qsort` and `bsearch`).
 1. Advanced language features (excluded from the *Lab test*)
