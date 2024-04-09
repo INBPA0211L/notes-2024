@@ -8,7 +8,8 @@ Data structures and built-in functions #3 (multidimensional arrays, consuming co
 
 ## Agenda
 
-TODO
+* Various representations of multi-dimensional arrays.
+* Command-line arguments.
 
 ## Sample codes
 
@@ -20,8 +21,15 @@ TODO
 
 ## Exercises
 
-TODO
+### Matrices
 
-## Highlights
+* [`PC200587` - A Long Copy](./exercises/matrices/PC200587.md)
+* [`PC200589` - The First Fruits](./exercises/matrices/PC200589.md)
+* [`PC200591` - The Last Mohican](./exercises/matrices/PC200591.md)
 
-TODO
+### Command-line arguments
+
+* [`PC200689` - The Curse of Magnitude](./exercises/args/PC200689.md)
+* [`PC200693` - Accuracy Matters!](./exercises/args/PC200693.md)
+* [`PC200701` - Pull the Shortest!](./exercises/args/PC200701.md)
+* [`PC200717` - Avadakedavra](./exercises/args/PC200717.md)
