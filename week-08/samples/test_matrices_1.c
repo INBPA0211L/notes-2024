@@ -27,7 +27,8 @@ void print_array(int *numbers, int length)
 
 void print_matrix2(int *numbers, int rows, int cols)
 {
-    for(int row=0; row < rows; row++) {
+    for (int row = 0; row < rows; row++)
+    {
         print_array(numbers + row * cols, cols);
     }
 }
@@ -77,7 +78,7 @@ int main(int argc, char *argv[])
     puts("=== print_matrix1");
 
     print_matrix1(&numbers[0][0], rows, cols);
-    
+
     puts("=== print_matrix2");
 
     print_matrix2(&numbers[0][0], rows, cols);
