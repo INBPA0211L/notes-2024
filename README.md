@@ -13,6 +13,6 @@ This repository contains notes and exercises for subject *High-level programming
 1. **Feedback test**
 1. [Data structures and built-in functions #3 (multidimensional arrays, consuming command-line arguments).](./week-08/README.md)
 1. [Data handling #1 (structures, reading and writing files, processing CSV documents, functions `qsort` and `bsearch`).](./week-09/README.md)
-1. Data handling #2 (structures, reading and writing files, processing CSV documents, functions `qsort` and `bsearch`).
+1. [Data handling #2 (structures, reading and writing files, processing CSV documents, functions `qsort` and `bsearch`).](./week-10/README.md)
 1. Advanced language features (excluded from the *Lab test*)
 1. **Lab test**.
