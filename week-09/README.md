@@ -19,8 +19,11 @@ Data handling #1 (structures, reading and writing files, processing CSV document
 1. [`test_qsort_args_1.c`](./samples/test_qsort_args_1.c) - Sorts the command-line arguments using `qsort`.
 1. [`test_qsort_args_2.c`](./samples/test_qsort_args_2.c) - Sorts the command-line arguments using `qsort`, considering the lengths first.
 1. [`test_qsort_args_3.c`](./samples/test_qsort_args_3.c) - Sorts the command-line arguments using `qsort`, case insensitive version.
-2. [`test_struct.c`](./samples/test_struct.c) - Defines and uses a structure.
-3. [`test_struct_typedef.c`](./samples/test_struct_typedef.c) - Defines and uses a type derived from a structure.
+1. [`test_struct.c`](./samples/test_struct.c) - Defines and uses a structure.
+1. [`test_struct_typedef.c`](./samples/test_struct_typedef.c) - Defines and uses a type derived from a structure.
+1. [`airports_e.c`](./samples/airports_e.c) - Sample solution for the first version of exercise `P109101`.
+1. [`airports_t.c`](./samples/airports_t.c) - Sample solution for the second version of exercise `P109101`.
+1. [`airports_n.c`](./samples/airports_n.c) - Sample solution for the third version of exercise `P109101`.
 
 ## Exercises
 
