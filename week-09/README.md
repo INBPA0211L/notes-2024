@@ -14,6 +14,7 @@ Data handling #1 (structures, reading and writing files, processing CSV document
 
 ## Sample codes
 
+1. [`test_strtok.c`](./samples/test_strtok.c) - Tokenizes a strong using function `strtok`.
 1. [`test_qsort_int.c`](./samples/test_qsort_int.c) - Sorts an `int` array using `qsort`.
 1. [`test_qsort_char.c`](./samples/test_qsort_char.c) - Sorts a `char` array using `qsort`.
 1. [`test_qsort_args_1.c`](./samples/test_qsort_args_1.c) - Sorts the command-line arguments using `qsort`.
